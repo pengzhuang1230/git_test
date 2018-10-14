@@ -1,0 +1,7 @@
+package com.heima.git;
+
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("upload javaProject to gitHub");
+    }
+}
