@@ -9,4 +9,8 @@ public class FirstClass {
 
         System.out.println("hello update");
     }
+
+    public static void method2(){
+
+    }
 }
