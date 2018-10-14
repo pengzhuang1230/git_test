@@ -11,6 +11,11 @@ public class FirstClass {
     }
 
     public static void method2(){
+        System.out.println("hello update");
+        System.out.println("hello update");
+        System.out.println("hello update");
+        System.out.println("hello update");
+
 
     }
 }
