@@ -8,5 +8,6 @@ public class GitTest {
     public static void method1(){
         System.out.println("update and push project to git");
         System.out.println(" 2 update and push project to git");
+        System.out.println(" 2 update and push project to git");
     }
 }

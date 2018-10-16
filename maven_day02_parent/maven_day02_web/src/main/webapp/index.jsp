@@ -17,5 +17,9 @@
     <div id="div1">
     <a href="items/findAll.do" ><h2 >查询所有项目</h2></a>
     </div>
+<hr>
+    <div id="div2">
+        <a href="items/findAll.do" ><h2 >查询所有项目</h2></a>
+    </div>
 </body>
 </html>
