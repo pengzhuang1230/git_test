@@ -10,4 +10,8 @@ public class GitTest {
         System.out.println(" 2 update and push project to git");
         System.out.println(" 2 update and push project to git");
     }
+
+    public void test2(){
+        System.out.println("git 练习");
+    }
 }
