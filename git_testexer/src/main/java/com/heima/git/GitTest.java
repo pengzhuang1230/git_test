@@ -14,4 +14,11 @@ public class GitTest {
     public void test2(){
         System.out.println("git 练习");
     }
+	
+	public void test3(){
+        System.out.println("git 练习");
+    }
+	
+	
+	
 }
